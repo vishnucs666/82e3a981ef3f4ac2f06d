@@ -31,14 +31,14 @@ Get User Data - create a set of APIs
   
   ![show](https://user-images.githubusercontent.com/26246256/113258750-f7f50f80-92e9-11eb-9aa3-3b65f75f0b5c.png)
 
-  # Update specif user
+  # Update a specifc user
   
   Api - http://localhost:3000/api/user/:id
   type - PATCH
   
   ![update](https://user-images.githubusercontent.com/26246256/113258976-40143200-92ea-11eb-95eb-11804cfa954d.png)
   
-  # Destroy specific user
+  # Destroy a specific user
   
   Api - http://localhost:3000/api/user/:id
   type - DELETE
