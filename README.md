@@ -26,7 +26,7 @@ Get User Data - create a set of APIs
   
   ## Get a specific user api
   
-  Api - http://localhost:3000/api/user/:id
+  Api - http://localhost:3000/api/user/:id __
   type - GET
   
   ![show](https://user-images.githubusercontent.com/26246256/113258750-f7f50f80-92e9-11eb-9aa3-3b65f75f0b5c.png)
