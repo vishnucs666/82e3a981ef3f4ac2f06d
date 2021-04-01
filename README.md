@@ -10,11 +10,18 @@ Get User Data - create a set of APIs
               lastName: last name of user
               email: email of use     
 ## API List
-  #Create user api
+  # Create user api
   Api - http://localhost:3000/api/user
   type - GET
   
   ![create](https://user-images.githubusercontent.com/26246256/113258515-a8164880-92e9-11eb-8baf-faa33f798325.png)
+  
+  # Get a specific user api
+  
+  Api - http://localhost:3000/api/user/2
+  type - GET
+  
+  
 
   
 ## Dependancies
