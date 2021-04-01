@@ -11,7 +11,7 @@ Get User Data - create a set of APIs
               email: email of use     
 # API List
   ## Create user api
-  Api - http://localhost:3000/api/user
+  Api - http://localhost:3000/api/user <br>
   type - GET
   
   ![create](https://user-images.githubusercontent.com/26246256/113258515-a8164880-92e9-11eb-8baf-faa33f798325.png)
@@ -26,7 +26,7 @@ Get User Data - create a set of APIs
   
   ## Get a specific user api
   
-  Api - http://localhost:3000/api/user/:id __
+  Api - http://localhost:3000/api/user/:id
   type - GET
   
   ![show](https://user-images.githubusercontent.com/26246256/113258750-f7f50f80-92e9-11eb-9aa3-3b65f75f0b5c.png)
