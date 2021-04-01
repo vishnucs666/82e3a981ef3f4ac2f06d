@@ -16,7 +16,7 @@ Get User Data - create a set of APIs
   
   ![create](https://user-images.githubusercontent.com/26246256/113258515-a8164880-92e9-11eb-8baf-faa33f798325.png)
   
-  # Return all user
+  # Return all users
   
   Api - http://localhost:3000/api/user
   type - GET
