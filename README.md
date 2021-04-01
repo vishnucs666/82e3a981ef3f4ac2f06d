@@ -16,13 +16,43 @@ Get User Data - create a set of APIs
   
   ![create](https://user-images.githubusercontent.com/26246256/113258515-a8164880-92e9-11eb-8baf-faa33f798325.png)
   
-  # Get a specific user api
+  # Return all user
   
-  Api - http://localhost:3000/api/user/2
+  Api - http://localhost:3000/api/user
   type - GET
   
+  ![get](https://user-images.githubusercontent.com/26246256/113259476-caf52c80-92ea-11eb-816e-fb59a57b1e0a.png)
+
   
+  # Get a specific user api
+  
+  Api - http://localhost:3000/api/user/:id
+  type - GET
+  
+  ![show](https://user-images.githubusercontent.com/26246256/113258750-f7f50f80-92e9-11eb-9aa3-3b65f75f0b5c.png)
+
+  # Update specif user
+  
+  Api - http://localhost:3000/api/user/:id
+  type - PATCH
+  
+  ![update](https://user-images.githubusercontent.com/26246256/113258976-40143200-92ea-11eb-95eb-11804cfa954d.png)
+  
+  # Destroy specific user
+  
+  Api - http://localhost:3000/api/user/:id
+  type - DELETE
+  
+  
+  ![delete](https://user-images.githubusercontent.com/26246256/113259159-718cfd80-92ea-11eb-8b1a-0ab15fc4bb3e.png)
+
+  # Typehead match
+  
+  Api - http://localhost:3000/api/typehead/:input
+  type - GET
+  
+  ![typehead](https://user-images.githubusercontent.com/26246256/113259252-89fd1800-92ea-11eb-8dd6-da784c6be731.png)
 
   
 ## Dependancies
-Any web browser ie google chrome,mozilla etc.
+Postman to test
