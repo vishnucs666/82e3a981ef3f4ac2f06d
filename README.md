@@ -18,7 +18,7 @@ Get User Data - create a set of APIs
   
   ## Return all users
   
-  Api - http://localhost:3000/api/user
+  Api - http://localhost:3000/api/user <br>
   type - GET
   
   ![get](https://user-images.githubusercontent.com/26246256/113259476-caf52c80-92ea-11eb-816e-fb59a57b1e0a.png)
@@ -26,21 +26,21 @@ Get User Data - create a set of APIs
   
   ## Get a specific user api
   
-  Api - http://localhost:3000/api/user/:id
+  Api - http://localhost:3000/api/user/:id <br>
   type - GET
   
   ![show](https://user-images.githubusercontent.com/26246256/113258750-f7f50f80-92e9-11eb-9aa3-3b65f75f0b5c.png)
 
   ## Update a specifc user
   
-  Api - http://localhost:3000/api/user/:id
+  Api - http://localhost:3000/api/user/:id <br>
   type - PATCH
   
   ![update](https://user-images.githubusercontent.com/26246256/113258976-40143200-92ea-11eb-95eb-11804cfa954d.png)
   
   ## Destroy a specific user
   
-  Api - http://localhost:3000/api/user/:id
+  Api - http://localhost:3000/api/user/:id <br>
   type - DELETE
   
   
@@ -48,7 +48,7 @@ Get User Data - create a set of APIs
 
   ## Typehead match
   
-  Api - http://localhost:3000/api/typehead/:input
+  Api - http://localhost:3000/api/typehead/:input <br>
   type - GET
   
   ![typehead](https://user-images.githubusercontent.com/26246256/113259252-89fd1800-92ea-11eb-8dd6-da784c6be731.png)
