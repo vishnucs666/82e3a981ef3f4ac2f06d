@@ -14,5 +14,8 @@ Get User Data - create a set of APIs
   Api - http://localhost:3000/api/user
   type - GET
   
+  ![create](https://user-images.githubusercontent.com/26246256/113258515-a8164880-92e9-11eb-8baf-faa33f798325.png)
+
+  
 ## Dependancies
 Any web browser ie google chrome,mozilla etc.
